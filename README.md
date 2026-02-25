@@ -75,3 +75,5 @@ This dataset is well-suited for **regression and classification models** to pred
 ---
 
 ## 📁 Project Structure
+├── EDA on wine dataset.ipynb
+├── README.md
